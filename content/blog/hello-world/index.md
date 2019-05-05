@@ -8,7 +8,7 @@ I just made this blog. But I don't have anything to post. So let's shitpost on m
 
 I'll introduce myself to you, poor innocent who got lost on the Internet and encountered this page.
 
-I'm born in 1995, which makes me a 24 years old guy. As this blog is static, this page will show "24 years old" for the rest of its life, 'cause I don't wanna update this particular page every 24th February.
+I was born in 1995, that makes me a 24 years old guy. As this blog is static, this page will show "24 years old" for the rest of its life, 'cause I don't wanna update this particular page every 24th February.
 
 I come from [Savoie, France](https://en.wikipedia.org/wiki/Savoie) and I love [raclette](https://en.wikipedia.org/wiki/Raclette).
 
