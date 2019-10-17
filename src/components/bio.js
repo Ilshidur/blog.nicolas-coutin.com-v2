@@ -40,7 +40,7 @@ function Bio() {
             <p>
               My name is <strong>{author}</strong>.
               I write very few things but I think a lot.
-              I'm a backend dev who enjoys the DevOps culture.
+              I'm a backend dev who enjoys the DevOps culture, system architecture and distributed systems.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 I also happen to post on Twitter.
