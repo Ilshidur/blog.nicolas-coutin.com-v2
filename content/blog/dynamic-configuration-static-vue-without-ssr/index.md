@@ -20,7 +20,7 @@ const API_URL = process.env.VUE_APP_API_URL;
 
 Due to the lack of [Server-Side Rendering](https://vuejs.org/v2/guide/ssr.html) in our Vue app, we used to give environment variables to the Vue CLI at build time in order to provide configurations, e.g.: an API URL.
 
-We also had a Dockerfile that we used to build using `docker build --build-arg https://api.example.com .` :
+We also had a Dockerfile that we used to build using `docker build --build-arg API_URL=https://api.example.com .` :
 
 ```dockerfile
 # Build stage
