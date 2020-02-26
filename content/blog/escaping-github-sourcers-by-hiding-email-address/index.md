@@ -20,6 +20,7 @@ TODO:
 
 * `git log | grep "Author:" | cut -d "<" -f2 | cut -d ">" -f1 | sort --unique`
 * Online tool with GitHub OAuth looking for all email addresses.
+* https://www.reddit.com/r/programming/comments/f7y3c5/stack_overflow_is_leaking_user_emails/
 
 ## How to NOT be exposed ?
 
