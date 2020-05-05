@@ -73,3 +73,4 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 * Escaping the GitHub growth hackers.
 * Node.js good practices to handle an application's life cycle.
+* Building a Docker image based on the [LinuxServer](https://www.linuxserver.io)'s base images.
