@@ -30,7 +30,8 @@
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
     "typography": "0.16.19",
-    "typography-theme-wordpress-2016": "0.16.19"
+    "typography-theme-wordpress-2016": "0.16.19",
+    "snyk": "^1.332.0"
   },
   "devDependencies": {
     "prettier": "1.19.1"
@@ -51,6 +52,9 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
-  }
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
