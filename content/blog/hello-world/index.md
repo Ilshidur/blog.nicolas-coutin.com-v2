@@ -37,4 +37,4 @@ That's all.
 
 In case you got lost and read this whole post, I suggest you to keep browsing the Internet, particularly [GitHub](https://github.com), my favorite website.
 
-You're welcome to contact me. To do so, please follow [this link](https://nicolas-coutin.com/#contact).
+You're welcome to contact me. To do so, please follow [this link](https://nicolas-coutin.com/#contact) or message me through [Keybase](https://keybase.io/ilshidur).
