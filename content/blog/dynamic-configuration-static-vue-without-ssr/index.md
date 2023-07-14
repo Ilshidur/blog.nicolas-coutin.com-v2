@@ -1,10 +1,10 @@
 ---
-title: Dynamic configuration for static Vue apps without SSR
+title: Dynamic configuration for static Vue 2 apps without SSR
 date: "2019-06-27T23:59:00.000"
-description: "How to configure a statically generated Vue application at run time, without `VUE_APP_` environment variables."
+description: "How to configure a statically generated Vue 2 application at run time, without `VUE_APP_` environment variables."
 ---
 
-This article explains how to allow our Vue.js app to accept configurations at **run time** instead of **build time** using [Docker](https://www.docker.com) & [NGINX](https://www.nginx.com).
+This article explains how to allow our Vue.js (version 2.x) app to accept configurations at **run time** instead of **build time** using [Docker](https://www.docker.com) & [NGINX](https://www.nginx.com).
 
 **If you want the solution, you can skip to the *Solution* section.**
 
@@ -101,3 +101,7 @@ docker run -e API_URL=https://api.example.com my-vue-app
 This is more a temporary solution than an actual long-term solution.
 
 If you are facing the same issue we had, you should definitely look into [Server-Side Rendering](https://vuejs.org/v2/guide/ssr.html). SSR allows a lot of behaviors that you can't do with a single static app rendered in the browser. This is a good way to dynamically change parts of your frontend and prevent crappy hacks like we did.
+
+## Was this article helpful ?
+
+Feel free to drop a 👍 !
