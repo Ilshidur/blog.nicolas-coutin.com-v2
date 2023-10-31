@@ -25,7 +25,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()} - Nicolas Coutin
+        <div>© <a href="https://nicolas-coutin.com" target="_blank" rel="noreferrer">Nicolas Coutin</a> -- <a href="/rss.xml">RSS feed</a></div>
       </footer>
     </div>
   )

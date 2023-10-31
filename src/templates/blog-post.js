@@ -68,7 +68,7 @@ const BlogPostTemplate = ({
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="bottom"
-        theme="light"
+        theme="transparent_dark"
         lang="en"
       />
     </Layout>
